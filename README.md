@@ -66,3 +66,9 @@ Marketing_Test.pbix
 ## Notes
 
 This is a sample project using simulated data. The goal is to demonstrate the workflow from data preparation to final reporting.
+
+## Portfolio Summary
+
+You can view a summary of the dashboards and key insights here:
+
+- [Portfolio PDF](./Pablo_Muracao_Portfolio_v2.pdf)
